@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'create script'> /tmp/my_first_directory
